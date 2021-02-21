@@ -1,0 +1,64 @@
+body {
+	font-family: "Lato", sans-serif;
+	margin: 0px;
+	background-color: skyblue;
+}
+
+.container{
+	height: 50px;
+	position: relative;
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+.Vcenter {
+  display: flex;
+  justify-content: center;
+
+  height: 90px;
+}
+
+
+button{
+	height: 45px;
+	width: 150px;
+	font-size: 20px;
+	margin-top: 50px;
+}
+
+input{
+	height: 40px;
+	margin-top: 50px;
+	border-radius: 5px;
+	margin-right:20px;
+	width: 300px;
+	font-size: 20px;
+}
+
+
+
+
+
+.list{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 20px;
+}
+
+ul{
+	padding: 10px;
+	list-style-type: none;
+	margin-top: 10px;
+	justify-content: center;
+}
+
+ul > li{
+	border-radius: 10px;
+	margin-top: 8px;
+	background-color: white;
+	padding: 15px;
+	padding-right: 400px;
+}
