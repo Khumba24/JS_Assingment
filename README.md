@@ -1,2 +1,2 @@
-# JS_Assingment
+# JS_Assignment
 Add_List_Item
